@@ -1,5 +1,11 @@
 # Dio Desafio Flutter - Subindo o Seu Projeto Flutter no GitHub
 
+<div align="center">
+  
+![dio-flutter-primeiro-app](https://github.com/jair-araujo/diodesafioflutter/assets/71511942/b5e03a30-83cd-4eba-ab35-ee5bf7765cff)
+
+</div>
+
 Esse projeto foi desenvolvido para estudo, no Bootcamp Santander 2023 - Mobile com Flutter que é um evento de bolsas de estudos em parceria com a Digital Innovation One (DIO), onde foi realizado um processo seletivo e disponibilizado o acesso ao programa.
 
 Caso tenha o interesse de aprender também, utilize o meu link e faça a sua inscrição no Dio Pro para aproveitar a formação Flutter exclusiva para assinantes [dio.me](https://dio.me/curso-flutter/AFA4MKW513FG). Além de me ajudar também, você vai aprender muito, pois o conteúdo é excelente e tem toda uma comunicadade na plataforma que pode te ajudar a evoluir e tirar duvidas, além de ser uma plataforma onde oferece muitos bootcamps em parceria com as principais empresas de tecnologia do Brasil e do Mundo, onde além de aprender, você também pode ter a chance de ser chamado para uma entrevista se caso uma dessas empresas parceiras, se interessar pelo seu perfil na plataforma, pois é uma plataforma gameficada e tudo que você faz conta para a sua evolução e destaque na plataforma.
